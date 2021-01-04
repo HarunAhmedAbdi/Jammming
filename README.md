@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/83a3e13e-0de1-4efb-a3b4-2d05cda04a52/deploy-status)](https://app.netlify.com/sites/jammming-app/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
