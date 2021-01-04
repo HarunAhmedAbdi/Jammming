@@ -1,5 +1,5 @@
 const clientId = "23aacaf583d14ba983288e1b663088db";
-const redirectUri = "http://resolution-one.surge.sh";
+const redirectUri = "https://jammming-app.netlify.app";
 let accessToken;
 
 const Spotify = {
