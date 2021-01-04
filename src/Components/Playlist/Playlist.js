@@ -25,8 +25,7 @@ class Playlist extends Component {
     );
   }
   handleNameChange(e) {
-    let name = e.target.value;
-    this.props.onChange(name);
+    this.props.onNameChange(e.target.value);
   }
 }
 
